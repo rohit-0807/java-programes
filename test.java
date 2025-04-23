@@ -1,10 +1,10 @@
 public class test{
 
-    public void display{
-        System.out.pritnln("hi,Good Mornning");
+    public void display(){
+        System.out.println("hi,Good Mornning");
     }
 
-    public static viod main(String[] args){
+    public static void main(String[] args){
         test t=new test();
         t.display();
     }
